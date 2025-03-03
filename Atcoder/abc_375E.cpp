@@ -227,25 +227,7 @@ const ll MM=10056;ll funNCR(ll n){NCR[1][1]=1;NCR[1][0]=1;for(ll i=2;i<=n;i++){N
 //adj set vector<vector<int> > adj(maxx) //adjacency set
 //adj queue adj priority queue etc
 // to flip bit do 1 xor
-/*
-V<ll> v1;
-    v1.pb(7);v1.pb(1);v1.pb(18);
-    d1d(v1);
-    deb(MAX(v1));
-    deb(MIN(v1));
-    asort(v1);
-    d1d(v1);
-    deb(LB(v1,18));
-    deb(UB(v1,18));
-    deb3(v1[0],v1[1],v1[2]);
-    deb(v1[0]);
 
-    heap h1;h1.push(1);h1.push(2);
-    deb(h1.top());h1.pop();
-    revheap h2;h2.push(1);h2.push(2);
-    deb(h2.top());h2.pop();
-    deb(SUM(v1));
-*/
 
 /*
 template <class T> using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
