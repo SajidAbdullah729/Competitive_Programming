@@ -1,4 +1,6 @@
-
+/*
+    Author: Abdullah Al Sajid
+*/
 
 #include<bits/stdc++.h>
 #include<iostream>
