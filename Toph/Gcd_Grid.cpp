@@ -1,3 +1,8 @@
+//problem link: https://toph.co/p/gcd-grid
+/*
+  Author : SajidAbdullah
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 #define pb push_back
