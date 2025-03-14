@@ -1,4 +1,8 @@
+/*
+	problem link: https://toph.co/p/the-crossover-everybody-asked-for-rise-of-the-thorn-villain-duckducula
+	Author : SajidAbdullah
 
+*/
 
 #include<bits/stdc++.h>
 #define FF ios_base::sync_with_stdio(0);cin.tie(0)
