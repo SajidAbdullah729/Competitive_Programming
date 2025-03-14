@@ -1,3 +1,8 @@
+/*
+  Problem Link: https://toph.co/p/game-of-shells
+  Author: SajidAbdullah
+
+*/
 #include<bits/stdc++.h>
 #define FF ios_base::sync_with_stdio(0);cin.tie(0)
 #define binary(value, size) cout << bitset<size>(value) << '\n'
