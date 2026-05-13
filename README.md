@@ -1,5 +1,3 @@
--> Some of the good problems of online contest participated by me
+### Competitive Programming
 
-
-
--> Added some offline problems solution by me of lightoj.
+-Some of my notable solve of Competitive Programming Contest
