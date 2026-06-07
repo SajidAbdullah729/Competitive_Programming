@@ -22,12 +22,8 @@ Solutions are collected from multiple competitive programming platforms, includi
 * Codeforces
 * AtCoder
 * LeetCode
-* UVa Online Judge
-* SPOJ
-* HackerRank
 * CodeChef
 * LightOJ
-* Other online judges
 
 ## Who Can Benefit?
 
