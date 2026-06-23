@@ -1,6 +1,6 @@
 # Competitive Programming Solutions
 
-A curated collection of my solutions to competitive programming problems from various online judges and coding platforms.
+A selective collection of my solutions to competitive programming problems from various online judges and coding platforms.
 
 ## Overview
 
