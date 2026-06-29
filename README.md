@@ -45,4 +45,4 @@ Suggestions, optimizations, and alternative solutions are always welcome through
 
 ## License
 
-This project is available for educational and learning purposes.
+This project is available for educational and learning purposes. Do not use it for abuse or any kind of wrong cases.
